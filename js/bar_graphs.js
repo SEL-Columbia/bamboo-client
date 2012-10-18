@@ -1,4 +1,4 @@
-var bambooUrl = '/';
+var bambooUrl = 'http://starscream.modilabs.org:8080/';
 var observationsUrl = bambooUrl + 'datasets';
 
 /* UTILS */
